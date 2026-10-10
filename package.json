@@ -1,3 +1,4 @@
+
 {
   "name": "all-my-lasts",
   "private": true,
@@ -13,5 +14,6 @@
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest"
-  }
+  },
+  "devDependencies": {}
 }
